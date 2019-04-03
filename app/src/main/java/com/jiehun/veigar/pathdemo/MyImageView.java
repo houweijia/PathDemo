@@ -19,7 +19,7 @@ import android.widget.ImageView;
 
 
 /**
- * @description: 底部为弧形的imageView
+ * @description: 底部为弧形的 imageView
  * @author: houwj
  * @date: 2019/4/3
  */
