@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DragBubbleView">
+        <attr name="bubble_radius" format="dimension"/>
+        <attr name="bubble_color" format="color"/>
+        <attr name="bubble_text" format="string"/>
+        <attr name="bubble_textSize" format="dimension"/>
+        <attr name="bubble_textColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="Custom_Round_Image_View">
+        <attr name="radius" format="dimension"/>
+        <attr name="left_top_radius" format="dimension"/>
+        <attr name="right_top_radius" format="dimension"/>
+        <attr name="right_bottom_radius" format="dimension"/>
+        <attr name="left_bottom_radius" format="dimension"/>
+    </declare-styleable>
+
+</resources>
